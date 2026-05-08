@@ -1,0 +1,19 @@
+# Pastas específicas do NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Arquivos compilados e pacotes
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs e arquivos temporários
+*.log
+*.bak
+*.swp
+*~.nib
